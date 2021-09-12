@@ -102,10 +102,11 @@ analytics:
 # Site Author
 author:
   name             : "ardiantovn"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
-  location         : ""
+  avatar           : "/images/profile.png"
+  bio              : "a story and code writer"
+  location         : 
   email            :
+  
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -115,11 +116,11 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/ardiantovn"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
+    - label: "ardiantovn"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ardiantovn"
     - label: "Instagram"
@@ -283,8 +284,15 @@ defaults:
     values:
       show_date: true
       layout: single
-      author_profile: true
       read_time: true
       comments: # true
       share: true
       related: true
+      author_profile: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
