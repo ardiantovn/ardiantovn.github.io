@@ -83,7 +83,8 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : # Open Graph/
+default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -114,7 +115,7 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
+    - label: "ardiantovn"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/ardiantovn"
     - label: "Facebook"
