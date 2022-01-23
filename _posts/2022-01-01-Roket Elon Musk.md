@@ -16,7 +16,7 @@ Ia tidak pernah membayangkan sebelumnya bahwa ada yang sama antara motor dengan 
 
 "Aku nggak tahu karakteristik skripsi yang ideal di jurusanmu itu gimana. Lagipula, kalau aku bantu kamu pakai patokan skripsi di jurusanku juga pasti susah. Misal dari jumlah bab-nya aja udah beda, di tempatku enam bab, di tempatmu lima bab," tiba-tiba temannya memalingkan tatapan ke seberangnya setelah berpikir cukup lama.
 
-"Tapi aku punya cerita yang kayaknya nyambung dengan kasusmu ini," sambung temannya yang baru dikenalnya sejak tiga tahun lalu. Meskipun sudah lama tidak bertemu dan beda jurusan, malam itu Ia ingin memecah kebuntuan di kepalanya dengan temannya itu. Sudah enam kali ia merevisi skripsinya namun belum juga disetujui oleh dosen pembimbingnya hanya untuk membahas bab 1 saja. 
+"Tapi aku punya cerita yang kayaknya nyambung dengan kasusmu ini," sambung temannya yang baru dikenalnya sejak tiga tahun lalu. Meskipun sudah lama tidak bertemu dan beda jurusan, malam itu ia ingin memecah kebuntuan di kepalanya dengan temannya itu. Sudah enam kali ia merevisi skripsinya namun belum juga disetujui oleh dosen pembimbingnya hanya untuk membahas bab 1 saja. 
 
 "Kamu pernah dengar gimana caranya Elon Musk bikin roket?" tanya temannya.
 
