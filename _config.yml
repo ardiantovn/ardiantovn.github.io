@@ -83,8 +83,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/
-default site image
+og_image                 : # Open Graph/default site image       
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
