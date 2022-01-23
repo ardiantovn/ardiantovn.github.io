@@ -34,7 +34,7 @@ Son merangkak sebentar dan membuka pintu Kamalam. Ia baru menyadari kalau ternya
 
 "Simpel dari mana? Aku aja jarang digosok. Aku iri sama Kambu yang nggak hanya selalu digosok tapi juga selalu dapat uang dari orang yang pakai dia," keluh Kamalam saat Son mulai merangkak kembali ke posisinya semula.
 
-"Kamu iri sama kamar mandi SPBU?" tanya Son yang keheranan. Ia tidak menyangka temannya itu bisa punya rasa iri sama kamar mandi lain. Ia mulai menarik kakinya dan bersila. Ia mulai tertarik dengan perghibahan di dunia kamar mandi.
+"Kamu iri sama kamar mandi SPBU?" tanya Son yang keheranan. Ia tidak menyangka temannya itu bisa punya rasa iri sama kamar mandi lain. Ia mulai menarik kakinya dan bersila. Ia mulai tertarik dengan pergibahan di dunia kamar mandi.
 
 "Kambu selalu ramai didatangi orang. Tiap orang selesai kencing atau BAB, dia selalu dapat uang. Aku di sini tidak pernah dapat uang. Kalau aku jadi Kambu, aku yakin bisa lebih kaya dari sekarang. Bahkan aku yakin bakal lebih kaya dari Kambu yang sekarang, " ujar Kamalam yang semakin malam bukannya semakin ngantuk tapi malah semakin bersemangat.
 
