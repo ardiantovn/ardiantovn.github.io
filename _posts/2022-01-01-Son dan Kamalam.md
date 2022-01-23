@@ -8,7 +8,7 @@ tags:
   - cerpen
 ---
 
-Son lari ke luar kamar kosnya menuju kamar mandi yang jauhnya sekitar 10 meter di depan kamarnya. Sekitar pukul 11 malam, ia lari di tengah lorong  melewati 4 kamar kos di sisi kanannya dan rumah pemilik kos di sisi kirinya. Lorong beratapkan seng itu cukup panjang hingga pada akhirnya ia harus menyeberangi halaman rumah ke arah deretan lima kamar mandi. 
+Son berlari dari arah kamar kosnya menuju kamar mandi yang jauhnya sekitar 10 meter di depan kamarnya. Sekitar pukul 11 malam, ia lari di tengah lorong  melewati 4 kamar kos di sisi kanannya dan rumah pemilik kos di sisi kirinya. Lorong beratapkan seng itu cukup panjang hingga pada akhirnya ia harus menyeberangi halaman rumah ke arah deretan lima kamar mandi. 
 
 "Oi, sini masuk!" belum sampai kamar mandi, Son berhenti di tengah halaman dan memanggil salah satu kamar mandi yang ada di situ. Ia balik kanan dan berlari lagi ke kamarnya dengan cepat agar tidak basah terkena gerimis yang baru saja mulai. Sebuah kamar mandi nomor 3 dari kiri, atau nomor 3 dari kanan, mengikuti Son melewati lorong dan masuk ke kamar Son tepat setelah Son masuk.
 
