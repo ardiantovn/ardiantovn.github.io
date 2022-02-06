@@ -5,7 +5,7 @@ layout: posts
 date: 2022-02-07
 permalink : /posts/Mengulik Peta Pogung
 tags:
-  - post
+  - dataviz
 ---
 
 Beberapa hari terakhir ini lalu lintas di sekitar UGM mulai ramai kembali. Awal Februari ini merupakan awal semester baru di mana UGM sudah mulai memberlakukan pembelajaran bauran. Tak heran, mahasiswa dari berbagai daerah mulai berbondong-bondong ke Jogja dan berseliweran, termasuk di daerah [Pogung](https://www.google.com/maps/search/pogung/@-7.7586339,110.3725765,16z), sebuah kawasan kos mahasiswa di utara Fakultas Teknik UGM. 
