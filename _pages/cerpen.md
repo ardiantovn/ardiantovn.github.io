@@ -1,6 +1,6 @@
 ---
-title: Cerpen
-permalink: /cerpen/
+title: Blogs
+permalink: /blogs/
 layout: posts
 classes: wide
 ---
