@@ -2,7 +2,7 @@
 title: 'Mengulik Peta Pogung'
 author: 'ardiantovn'
 layout: posts
-date: 2022-02-07
+date: 2022-02-06
 permalink : /posts/Mengulik Peta Pogung
 tags:
   - dataviz
