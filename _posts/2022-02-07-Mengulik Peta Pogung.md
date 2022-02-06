@@ -22,10 +22,7 @@ Di artikel ini, saya menggunakan pustaka [osmnx](https://github.com/gboeing/osmn
 Area Pogung yang diamati memiliki 162 persimpangan, 135 diantaranya adalah pertigaan dan 27 sisanya perempatan. Mengingat rerata panjang jalan adalah 60 meter, itu artinya, pengguna jalan biasanya akan menemukan persimpangan setiap 60 meter perjalanan. Di sisi lain, berdasarkan diagram polar histogram, arah jalan di area Pogung cenderung condong ke timur laut dan barat laut. Barangkali, dua hal ini menyebabkan orang kebingungan ketika berada di Pogung. Pertama, mereka bingung karena banyak menghadapi persimpangan. Kedua, mereka bingung mengenali arah mata angin.
 
 <p align="center">
-  <img src="/assets/pogung/pogung_stat.png" alt="Jejaring Jalan di Pogung" width="300"/>
-</p>
-
-<p align="center">
+  <img src="/assets/pogung/pogung_stat.png" alt="Jejaring Jalan di Pogung" width="500"/>
   <img src="/assets/pogung/pogung_orientation.png" alt="Arah Jalan di Pogung" width="300"/>
 </p>
  
