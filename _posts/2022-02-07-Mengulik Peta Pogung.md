@@ -3,7 +3,7 @@ title: 'Mengulik Peta Pogung'
 author: 'ardiantovn'
 layout: posts
 date: 2022-02-07
-permalink : /posts/Mengulik Peta Pogung
+permalink : /posts/2022/07/Mengulik Peta Pogung
 tags:
   - post
 ---
