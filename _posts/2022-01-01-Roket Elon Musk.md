@@ -3,7 +3,7 @@ title: 'Roket Elon Musk'
 author: 'ardiantovn'
 layout: posts
 date: 2022-01-01
-permalink : /cerpen/2022-01-01/Roket Elon Musk
+permalink : /cerpen/Roket Elon Musk
 tags:
   - cerpen
 ---
