@@ -3,7 +3,7 @@ title: 'Son dan Kamalam'
 author: 'ardiantovn'
 layout: posts
 date: 2022-01-23
-permalink : /cerpen/2022-01-23/Son dan Kamalam
+permalink : /cerpen/Son dan Kamalam
 tags:
   - cerpen
 ---
