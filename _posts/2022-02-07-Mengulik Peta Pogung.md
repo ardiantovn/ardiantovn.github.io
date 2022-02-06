@@ -12,17 +12,14 @@ Beberapa hari terakhir ini lalu lintas di sekitar UGM mulai ramai kembali. Awal 
 
 Banyak sekali orang yang bilang kalau mereka memasuki Pogung itu ibarat mereka memasuki [labirin](https://mojok.co/liputan/susul/pogung-labirin-yang-membuat-bingung-dan-teori-belok-kanan/). Salah satu supir ojek daring juga pernah spontan bilang, "kita memasuki labirin" saat mengantar saya masuk ke Pogung. Saya pun pernah jalan kaki malam hari dan tersesat di Pogung selama 1 jam. Pertanyaannya, kenapa jalanan di Pogung begitu membingungkan banyak orang? 
 
-<img src="/assets/pogung/pogung_area.png" alt="drawing" width="200"/>
+<img src="/assets/pogung/pogung_area.png" alt="drawing" width="500"/>
 
 Di artikel ini, saya menggunakan pustaka [osmnx](https://github.com/gboeing/osmnx)dan [contoh-contoh kode programnya](https://github.com/gboeing/osmnx-examples/tree/main/notebooks) untuk menggambar peta Pogung dan melihat [karakteristik wilayah](https://geoffboeing.com/publications/osmnx-complex-street-networks/) tersebut. Wilayah berwarna hijau ini merupakan daerah Pogung Dalangan, Pogung Kidul, Pogung Baru, dan Pogung Lor. Idealnya, saya menggunakan semua area hijau itu. Namun, karena keterbatasan yang saya miliki, saya hanya bisa mengambil data di area berwarna merah. Kode program yang saya susun bisa dilihat [di sini](https://github.com/ardiantovn/map_exploration). Saya menggunakan peta mode ```bicycle``` untuk menggambar rute yang bisa dilalui oleh sepeda, mengingat kebanyakan pengguna jalan di wilayah ini jalan kaki, bersepeda, dan naik sepeda motor.
 
 
 Area Pogung yang diamati memiliki 162 persimpangan, 135 diantaranya adalah pertigaan dan 27 sisanya perempatan. Mengingat rerata panjang jalan adalah 60 meter, itu artinya, pengguna jalan biasanya akan menemukan persimpangan setiap 60 meter perjalanan. Di sisi lain, berdasarkan diagram polar histogram, arah jalan di area Pogung cenderung condong ke timur laut dan barat laut. Barangkali, dua hal ini menyebabkan orang kebingungan ketika berada di Pogung. Pertama, mereka bingung karena banyak menghadapi persimpangan. Kedua, mereka bingung mengenali arah mata angin.
 
-:-------------------------:|:-------------------------:
-
-<img src="/assets/pogung/pogung_stat.png" alt="drawing" width="200"/>
-|  <img src="/assets/pogung/pogung_orientation.png" alt="drawing" width="200"/>
+<img src="/assets/pogung/pogung_stat.png" alt="drawing" width="500"/> <img src="/assets/pogung/pogung_orientation.png" alt="drawing" width="500"/>
 
 Peta jejaring jalanan Pogung menunjukkan semua persimpangan yang ada di area tersebut. Simpul-simpul ini diwarnai dengan warna gelap (nilai _betweeness centrality_ rendah) dan warna terang(nilai _betweeness centrality_ tinggi).  Simpul berwarna kuning memiliki nilai _betweeness centrality_ paling tinggi. Sekitar 23% dari semua rute tersingkat yang ada di Pogung melewati simpul kuning ini. Simpul ini banyak menjadi penjembatan rute-rute pendek di Pogung. Di sisi lain, apabila simpul ini ditutup, maka banyak simpul-simpul lain yang akan terputus dan membuat orang berputar otak lagi untuk mencari jalan lain. Simpul-simpul penting lainnya terkonsentrasi di Jalan Pogung Raya dan Jalan Pogung Kidul. Artinya, kedua jalan ini merupakan jalan yang banyak memiliki simpul penjembatan. 
 
