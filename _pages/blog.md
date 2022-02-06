@@ -1,6 +1,6 @@
 ---
 title: Blogs
-permalink: /blogs/
+permalink: /blog/
 layout: posts
 classes: wide
 ---
