@@ -8,16 +8,13 @@ tags:
   - dataviz
 ---
 
-Beberapa hari terakhir ini lalu lintas di sekitar UGM mulai ramai kembali. Awal Februari ini merupakan awal semester baru di mana UGM sudah mulai memberlakukan pembelajaran bauran. Tak heran, mahasiswa dari berbagai daerah mulai berbondong-bondong ke Jogja dan berseliweran, termasuk di daerah [Pogung](https://www.google.com/maps/search/pogung/@-7.7586339,110.3725765,16z), sebuah kawasan kos mahasiswa di utara Fakultas Teknik UGM. 
-
-Banyak sekali orang yang bilang kalau mereka memasuki Pogung itu ibarat mereka memasuki [labirin](https://mojok.co/liputan/susul/pogung-labirin-yang-membuat-bingung-dan-teori-belok-kanan/). Salah satu supir ojek daring juga pernah spontan bilang, "kita memasuki labirin" saat mengantar saya masuk ke Pogung. Saya pun pernah jalan kaki malam hari dan tersesat di Pogung selama 1 jam. Pertanyaannya, kenapa jalanan di Pogung begitu membingungkan banyak orang? 
+Banyak sekali orang yang bilang kalau mereka memasuki [Pogung](https://www.google.com/maps/search/pogung/@-7.7586339,110.3725765,16z) itu ibarat mereka memasuki [labirin](https://mojok.co/liputan/susul/pogung-labirin-yang-membuat-bingung-dan-teori-belok-kanan/). Salah satu supir ojek daring juga pernah spontan bilang, "Kita memasuki labirin", saat mengantar saya masuk ke Pogung. Saya pun pernah jalan kaki malam hari dan tersesat di Pogung selama 1 jam. Pertanyaannya, kenapa jalanan di Pogung begitu membingungkan banyak orang? 
 
 <p align="center">
   <img src="/assets/pogung/pogung_area.png" alt="Area Pogung" width="300"/>
 </p>
 
 Di artikel ini, saya menggunakan pustaka [osmnx](https://github.com/gboeing/osmnx) dan [contoh-contoh kode programnya](https://github.com/gboeing/osmnx-examples/tree/main/notebooks) untuk menggambar peta Pogung dan melihat [karakteristik wilayah](https://geoffboeing.com/publications/osmnx-complex-street-networks/) tersebut. Wilayah berwarna hijau ini merupakan daerah Pogung Dalangan, Pogung Kidul, Pogung Baru, dan Pogung Lor. Idealnya, saya menggunakan semua area hijau itu. Namun, karena keterbatasan yang saya miliki, saya hanya bisa mengambil data di area berwarna merah. Kode program yang saya susun bisa dilihat [di sini](https://github.com/ardiantovn/map_exploration). Saya menggunakan peta mode ```bicycle``` untuk menggambar rute yang bisa dilalui oleh sepeda, mengingat kebanyakan pengguna jalan di wilayah ini jalan kaki, bersepeda, dan naik sepeda motor.
-
 
 Area Pogung yang diamati memiliki 162 persimpangan, 135 diantaranya adalah pertigaan dan 27 sisanya perempatan. Mengingat rerata panjang jalan adalah 60 meter, itu artinya, pengguna jalan biasanya akan menemukan persimpangan setiap 60 meter perjalanan. Di sisi lain, berdasarkan diagram polar histogram, arah jalan di area Pogung cenderung condong ke timur laut dan barat laut. Barangkali, dua hal ini menyebabkan orang kebingungan ketika berada di Pogung. Pertama, mereka bingung karena banyak menghadapi persimpangan. Kedua, mereka bingung mengenali arah mata angin.
 
