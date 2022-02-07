@@ -8,7 +8,7 @@ tags:
   - dataviz
 ---
 
-Banyak sekali orang yang bilang kalau mereka memasuki [Pogung](https://www.google.com/maps/search/pogung/@-7.7586339,110.3725765,16z) itu ibarat mereka memasuki [labirin](https://mojok.co/liputan/susul/pogung-labirin-yang-membuat-bingung-dan-teori-belok-kanan/). Salah satu supir ojek daring juga pernah spontan bilang, "Kita memasuki labirin", saat mengantar saya masuk ke Pogung. Saya pun pernah jalan kaki malam hari dan tersesat di Pogung selama 1 jam. Pertanyaannya, kenapa jalanan di Pogung begitu membingungkan banyak orang? 
+Banyak sekali orang bilang bahwa memasuki daerah [Pogung](https://www.google.com/maps/search/pogung/@-7.7586339,110.3725765,16z) itu ibarat memasuki [labirin](https://mojok.co/liputan/susul/pogung-labirin-yang-membuat-bingung-dan-teori-belok-kanan/). Salah satu supir ojek daring juga pernah spontan bilang, "Kita memasuki labirin", saat mengantar saya masuk ke Pogung. Saya pun pernah jalan kaki malam hari dan tersesat di Pogung selama 1 jam. Pertanyaannya, kenapa jalanan di Pogung begitu membingungkan banyak orang? 
 
 <p align="center">
   <img src="/assets/pogung/pogung_area.png" alt="Area Pogung" width="300"/>
