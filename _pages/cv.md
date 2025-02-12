@@ -56,7 +56,7 @@ experience:
       - "SQL"
 
   - title: "Student Intern"
-    company: "PT. Pagilaran(A Tea Company)"
+    company: "PT. Pagilaran (An Indonesian Tea Company)"
     date: "Dec 2018 - Jan 2019"
     description:
       - "Measured and analyzed 2 main parameter of tea enzymatic oxidation room consisting of room temperature and room humidity."
