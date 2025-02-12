@@ -104,11 +104,27 @@ layout: default
             color: #666;
         }
 
+        .print-date {
+            text-align: right;
+            font-size: 10px;
+            color: #888;
+            margin-top: 20px;
+            display: none;
+        }
+
         @media print {
             .tag {
                 background-color: #f0f0f0 !important;
                 -webkit-print-color-adjust: exact;
                 print-color-adjust: exact;
+            }
+
+            title {
+                display: none;
+            }
+
+            .print-date {
+                display: block;
             }
         }
 
@@ -157,6 +173,17 @@ layout: default
             position: absolute;
             left: 0;
             color: #666;
+        }
+
+        @page {
+            margin: 0.5cm;
+            size: auto;
+        }
+        @media print {
+            @page {
+                margin-top: 0.75cm;
+                margin-bottom: 1cm;
+            }
         }
     </style>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
@@ -235,6 +262,16 @@ layout: default
             </div>
         </div>
         {% endfor %}
+    </div>
+
+    <div class="print-date">
+        Printed on <script>
+            const date = new Date();
+            const formattedDate = date.getDate() + ' ' + 
+                                date.toLocaleString('default', { month: 'long' }) + ' ' + 
+                                date.getFullYear() + ' ';
+            document.write(formattedDate);
+        </script>
     </div>
 </body>
 </html>
