@@ -19,7 +19,6 @@ experience:
       for UAV mmWave communication"
     skills:
       - "Python"
-      - "Rust Language"
       - "LaTex"
 
   - title: "Data Engineer"
@@ -32,7 +31,7 @@ experience:
       - "Conducting research on GPT, NER, and topic modelling."      
     skills:
       - "Python"
-      - "Go Language"
+      - "Go Lang"
       - "SQL"
       - "Apache Airflow"
       - "Bigquery"
