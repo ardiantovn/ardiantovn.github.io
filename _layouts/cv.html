@@ -264,6 +264,29 @@ layout: default
         {% endfor %}
     </div>
 
+    <div class="section">
+        <div class="section-title">Certifications</div>
+        {% for cert in page.certifications %}
+        <div class="experience-item">
+            <div class="job-title">
+                <span><a href="{{ cert.link }}">{{ cert.title }}</a></span>
+                <span class="date">{{ cert.date }}</span>
+            </div>
+            <div class="company">{{ cert.organization }}</div>
+            <ul>
+                {% for detail in cert.details %}
+                <li>{{ detail }}</li>
+                {% endfor %}
+            </ul>
+            <div class="skills-tags">
+                {% for skill in cert.skills %}
+                <span class="tag">{{ skill }}</span>
+                {% endfor %}
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+
     <div class="print-date">
         Printed on <script>
             const date = new Date();

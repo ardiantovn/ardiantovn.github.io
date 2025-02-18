@@ -3,7 +3,7 @@ layout: cv
 title: "Resume"
 permalink: /cv/
 author: "Vendi Ardianto Nugroho"
-tagline: "Data & Research Engineer | Bringing Creativity to Research and Development"
+tagline: "Data & AI Engineer | Bringing Creativity to Research and Development"
 email: "vendianugroho[at]gmail[dot]com"
 linkedin: "vendianugroho"
 github: "ardiantovn"
@@ -19,6 +19,7 @@ experience:
       for UAV mmWave communication"
     skills:
       - "Python"
+      - "Rust Language"
       - "LaTex"
 
   - title: "Data Engineer"
@@ -31,6 +32,7 @@ experience:
       - "Conducting research on GPT, NER, and topic modelling."      
     skills:
       - "Python"
+      - "Go Language"
       - "SQL"
       - "Apache Airflow"
       - "Bigquery"
@@ -96,4 +98,20 @@ publications:
     link: "https://jurnal.untan.ac.id/index.php/Elkha/article/view/42728"
     organization: "ELKHA"
     date: "April 2021"
+
+# Certifications
+certifications:
+ - title: "5G for Everyone"
+   link: "https://www.coursera.org/account/accomplishments/verify/87GJJPMP4FB5?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course"
+   organization: "Qualcomm Wireless Academy"
+   date: "January 2024"
+ - title: "Automotive Radar"
+   link: "https://www.udemy.com/certificate/UC-6b0cecd5-c665-4d00-9884-cd974b60ab96/"
+   organization: "Udemy"
+   date: "January 2024"
+ - title: "Apache Airflow | A Real-Time & Hands-On Course on Airflow"
+   link: "https://www.udemy.com/certificate/UC-429244c7-76ee-43ca-ab07-ec38a8f53a69/"
+   organization: "Udemy"
+   date: "January 2021"
+  
 ---
