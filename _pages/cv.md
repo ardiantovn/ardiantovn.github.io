@@ -15,8 +15,8 @@ experience:
     company: "Intelligent Signal Processing Lab, Sejong University"
     date: "Sep 2023 - Present"
     description:
-      - "Developing a GPS-based beam prediction and tracking deep learning model
-      for UAV mmWave communication"
+      - "Developed a GPS-based beam prediction and tracking deep learning model for UAV mmWave communication, **improving** beam prediction **accuracy** through novel data set splitting strategy."
+      - "**Reduced** the **model size** while maintaining the comparable model performance."
     skills:
       - "Python"
       - "LaTex"
@@ -25,10 +25,10 @@ experience:
     company: "Kompas Gramedia (An Indonesian News Media Company)"
     date: "July 2022 - June 2023"
     description:
-      - "Created ETL process using Python, SQL, Apache Airflow, & Bigquery."
-      - "Developed an article recommendation model and an article classifier model."
-      - "Deployed machine learning models in Kubernetes."
-      - "Conducting research on GPT, NER, and topic modelling."      
+      - "Developed an **ETL process** using Python, SQL, Apache Airflow, and Bigquery, enabling **efficient data processing** for company stakeholders."
+      - "Developed an **article recommendation model** and an **article classifier model** aimed at **increasing reader engagement**."
+      - "Deployed machine learning models in Kubernetes, contributing to **improved deployment efficiency** and **system scalability**."
+      - "Conducted **research** on GPT, Named Entity Recognition (NER), and topic modelling, **identifying opportunities to enhance** the article recommendation **features**."      
     skills:
       - "Python"
       - "Go Lang"
@@ -42,12 +42,11 @@ experience:
     company: "Big Data Analytics Laboratory, Politics and Government Department, FISIPOL, UGM"
     date: "Feb 2019 - June 2022"
     description:
-      - "Conducted twitter & news data analysis with political science researchers."
-      - "Storyboarded twitter and news data using of social network analysis, word cloud, and timeline chart using Gephi and Tableau."
-      - "Developed twitter and news ETL using Airflow."
-      - "Crafted twitter and news dashboard using Apache Superset."      
-      - "Developed and delivered a learning material about composing twitter query for political science researchers."
-      - "Implemented a gender prediction model based person name."
+      - "Enabled **comprehensive Twitter and news data analysis** for political science researchers, leading to **more accurate insights** for published studies."
+      - "Created **visualizations** of Twitter and news data using Gephi and Tableau, enhancing **reader understanding** of key trends."
+      - "Developed a new **Twitter & News Insight Dashboard** using Apache Airflow and Superset, enabling **automatic weekly analysis** capabilities." 
+      - "Developed and delivered **training materials** on Twitter & News Data Analysis, **enhancing researchers' data collection, processing, and visualization skills**."
+      - "Implemented a **gender prediction model** based on person names, **streamlining demographic analysis** in research studies."
     skills:
       - "Python"
       - "Apache Airflow"
@@ -60,7 +59,7 @@ experience:
     company: "PT. Pagilaran (An Indonesian Tea Company)"
     date: "Dec 2018 - Jan 2019"
     description:
-      - "Measured and analyzed 2 main parameter of tea enzymatic oxidation room consisting of room temperature and room humidity."
+      - "**Measured and reported** tea oxidation room temperature and humidity, confirming **compliance with company standards**."
     skills:
       - "Python"
   
@@ -68,7 +67,7 @@ experience:
     company: "Department of Nuclear Engineering and Engineering Physics, Universitas Gadjah Mada"
     date: "Sep 2018 - Nov 2018"
     description:
-      - "Guided 1 students group each week to complete digital system lab work course during a semester."
+      - "**Mentored student groups** in digital system lab work, guiding them to **successfully complete their projects**."
     skills:
       - "Arduino"
       - "PSoC Creator IDE"
