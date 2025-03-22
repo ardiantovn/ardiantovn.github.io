@@ -12,7 +12,7 @@ github: "ardiantovn"
 # Professional Experience
 experience:
   - title: "Research Assistant"
-    company: "Intelligent Signal Processing Lab, Sejong University"
+    company: "Intelligent Signal Processing Lab, Sejong University, Seoul, South Korea"
     date: "Sep 2023 - Present"
     description:
       - "Developed a GPS-based beam prediction and tracking deep learning model for UAV mmWave communication, **improving** beam prediction **accuracy** through novel data set splitting strategy."
@@ -22,7 +22,7 @@ experience:
       - "LaTex"
 
   - title: "Data Engineer"
-    company: "Kompas Gramedia (An Indonesian News Media Company)"
+    company: "Kompas Gramedia (An Indonesian News Media Company), Jakarta, Indonesia"
     date: "July 2022 - June 2023"
     description:
       - "Developed an **ETL process** using Python, SQL, Apache Airflow, and Bigquery, enabling **efficient data processing** for company stakeholders."
@@ -39,7 +39,7 @@ experience:
       - "Docker"
 
   - title: "Data Analyst"
-    company: "Big Data Analytics Laboratory, Politics and Government Department, FISIPOL, UGM"
+    company: "Big Data Analytics Laboratory, Politics and Government Department, FISIPOL, UGM, Yogyakarta, Indonesia"
     date: "Feb 2019 - June 2022"
     description:
       - "Enabled **comprehensive Twitter and news data analysis** for political science researchers, leading to **more accurate insights** for published studies."
@@ -56,7 +56,7 @@ experience:
       - "SQL"
 
   - title: "Student Intern"
-    company: "PT. Pagilaran (An Indonesian Tea Company)"
+    company: "PT. Pagilaran (An Indonesian Tea Company), Batang, Indonesia"
     date: "Dec 2018 - Jan 2019"
     description:
       - "**Measured and reported** tea oxidation room temperature and humidity, confirming **compliance with company standards**."
@@ -64,7 +64,7 @@ experience:
       - "Python"
   
   - title: "Assistant Instructor of Digital System Labwork"
-    company: "Department of Nuclear Engineering and Engineering Physics, Universitas Gadjah Mada"
+    company: "Department of Nuclear Engineering and Engineering Physics, UGM, Yogyakarta, Indonesia"
     date: "Sep 2018 - Nov 2018"
     description:
       - "**Mentored student groups** in digital system lab work, guiding them to **successfully complete their projects**."
@@ -75,13 +75,13 @@ experience:
 # Education
 education:
   - degree: "Master of Science in Intelligent Mechatronics Engineering"
-    institution: "Sejong University"
+    institution: "Sejong University, Seoul, South Korea"
     date: "Sep 2023 - Present"
     details:
       - "Specialized in Deep Learning for Wireless Communication"
 
   - degree: "Bachelor of Science in Engineering Physics"
-    institution: "Universitas Gadjah Mada"
+    institution: "Universitas Gadjah Mada, Yogyakarta, Indonesia"
     date: "Aug 2015 - Aug 2020"
     details:
       - "Specialized in Instumentation Engineering"
