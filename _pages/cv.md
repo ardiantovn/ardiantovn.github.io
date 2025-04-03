@@ -15,8 +15,11 @@ experience:
     company: "Intelligent Signal Processing Lab, Sejong University, Seoul, South Korea"
     date: "Sep 2023 - Present"
     description:
-      - "Developed a GPS-based beam prediction and tracking deep learning model for UAV mmWave communication, **improving** beam prediction **accuracy** through novel data set splitting strategy."
-      - "**Reduced** the **model size** while maintaining the comparable model performance."
+      - "Developed a GPS-based beam prediction and tracking deep learning model for 
+      UAV mmWave communication, **improving** beam prediction **accuracy** 
+      through novel data set splitting strategy and GPS data preprocessing."
+      - "**Reduced** the **model size** while maintaining the comparable model 
+      performance by implementing **model pruning** and **finetuning**."
     skills:
       - "Python"
       - "LaTex"
