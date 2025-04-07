@@ -86,6 +86,7 @@ education:
   - degree: "Bachelor of Science in Engineering Physics"
     institution: "Universitas Gadjah Mada, Yogyakarta, Indonesia"
     date: "Aug 2015 - Aug 2020"
+    supervisor: "Dr. Awang N.I. Wardana and Dr. Dwi Joko Suroso"
     details:
       - "Specialized in Instumentation Engineering"
 
