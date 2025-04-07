@@ -232,6 +232,9 @@ layout: default
                 <span class="date">{{ edu.date }}</span>
             </div>
             <div class="company">{{ edu.institution }}</div>
+            {% if edu.supervisor %}
+            <div class="company">Supervisor: {{ edu.supervisor }}</div>
+            {% endif %}
             <ul>
                 {% for detail in edu.details %}
                 <li>{{ detail | markdownify }}</li>
@@ -283,6 +286,26 @@ layout: default
                 <span class="tag">{{ skill }}</span>
                 {% endfor %}
             </div>
+        </div>
+        {% endfor %}
+    </div>
+
+    <div class="section">
+        <div class="section-title">Patents</div>
+        {% for patent in page.patents %}
+        <div class="experience-item">
+            <div class="job-title">
+                <span>{{ patent.title }}</span>
+                <span class="date">{{ patent.application_date }}</span>
+            </div>
+            <div class="company">Inventor: {{ patent.inventor }}</div>
+            <div class="company">Application Number: {{ patent.application_number }}</div>
+            <div class="company">Status: {{ patent.status | capitalize }}</div>
+            <ul>
+                {% for desc in patent.description %}
+                <li>{{ desc | markdownify }}</li>
+                {% endfor %}
+            </ul>
         </div>
         {% endfor %}
     </div>

@@ -15,11 +15,10 @@ experience:
     company: "Intelligent Signal Processing Lab, Sejong University, Seoul, South Korea"
     date: "Sep 2023 - Present"
     description:
-      - "Developed a GPS-based beam prediction and tracking deep learning model for 
+      - "Developed **a GPS-based beam prediction and tracking deep learning model** for 
       UAV mmWave communication, **improving** beam prediction **accuracy** 
-      through novel data set splitting strategy and GPS data preprocessing."
-      - "**Reduced** the **model size** while maintaining the comparable model 
-      performance by implementing **model pruning** and **finetuning**."
+      through novel data set splitting strategy, GPS data preprocessing, and lightweight model architecture."
+      - "Explored methods to **reduce model size** while maintaining comparable performance through **model pruning** and **finetuning** techniques."
     skills:
       - "Python"
       - "LaTex"
@@ -80,6 +79,7 @@ education:
   - degree: "Master of Science in Intelligent Mechatronics Engineering"
     institution: "Sejong University, Seoul, South Korea"
     date: "Sep 2023 - Present"
+    supervisor: "Professor Byung Moo Lee"
     details:
       - "Specialized in Deep Learning for Wireless Communication"
 
@@ -114,5 +114,14 @@ certifications:
    link: "https://www.udemy.com/certificate/UC-429244c7-76ee-43ca-ab07-ec38a8f53a69/"
    organization: "Udemy"
    date: "January 2021"
+
+  # Patents
+patents:
+  - title: "무인 비행체 가능형 밀리미터파 통신을 위한 글로벌 항법 위성 시스템 보조형 딥 러닝 기반 빔 예측 및 추적"
+    application_date: "March 2025"
+    description: "Deep learning-based beam prediction and tracking assisted global navigation satellite system for unmanned aerial vehicle-capable millimeter wave communications"
+    inventor: "Vendi Ardianto Nugroho and Byung Moo Lee"
+    application_number: "10-2025-0031583"
+    status: "filed"
   
 ---
