@@ -94,8 +94,11 @@ education:
 publications:
   - title: "A Survey of Federated Learning for mmWave Massive MIMO"
     link: "https://ieeexplore.ieee.org/document/10521620"
-    organization: "IEEE Internet of Things Journal"
+    organization: "IEEE Internet of Things Journal (top 3,6% journal in computer science & information system category)"
     date: "May 2024"
+  - title: "GPS-Aided Deep Learning for Beam Prediction and Tracking in UAV mmWave Communication"
+    organization: "IEEE Internet of Things Journal (top 3,6% journal in computer science & information system category)"
+    status: "Under Review"
   - title: "Analysis of Battery Management Algorithms on DC Microgrids"
     link: "https://jurnal.untan.ac.id/index.php/Elkha/article/view/42728"
     organization: "ELKHA"

@@ -249,10 +249,19 @@ layout: default
         {% for publication in page.publications %}
         <div class="experience-item">
             <div class="job-title">
-                <span><a href="{{ publication.link }}">{{ publication.title }}</a></span>
+                <span>
+                    {% if publication.link %}
+                    <a href="{{ publication.link }}">{{ publication.title }}</a>
+                    {% else %}
+                    {{ publication.title }}
+                    {% endif %}
+                </span>
                 <span class="date">{{ publication.date }}</span>
             </div>
             <div class="company">{{ publication.organization }}</div>
+            {% if publication.status %}
+            <div class="company">Status: {{ publication.status }}</div>
+            {% endif %}
             <ul>
                 {% for detail in publication.details %}
                 <li>{{ detail | markdownify }}</li>
