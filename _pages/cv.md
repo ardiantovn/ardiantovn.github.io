@@ -18,7 +18,6 @@ experience:
       - "Developed **a GPS-based beam prediction and tracking deep learning model** for 
       UAV mmWave communication, **improving** beam prediction **accuracy** 
       through novel data set splitting strategy, GPS data preprocessing, and lightweight model architecture."
-      - "Explored methods to **reduce model size** while maintaining comparable performance through **model pruning** and **finetuning** techniques."
     skills:
       - "Python"
       - "LaTex"
