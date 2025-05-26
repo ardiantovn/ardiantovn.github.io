@@ -91,13 +91,14 @@ education:
 
 # Publications
 publications:
+  - title: "GPS-Aided Deep Learning for Beam Prediction and Tracking in UAV mmWave Communication"
+    link: "https://arxiv.org/abs/2505.17530"
+    status: "Submitted to IEEE. Code: https://github.com/ardiantovn/gpsbeam."
+    date: "May 2025"
   - title: "A Survey of Federated Learning for mmWave Massive MIMO"
     link: "https://ieeexplore.ieee.org/document/10521620"
     organization: "IEEE Internet of Things Journal (top 3,6% journal in computer science & information system category)"
     date: "May 2024"
-  - title: "GPS-Aided Deep Learning for Beam Prediction and Tracking in UAV mmWave Communication"
-    organization: "IEEE Access"
-    status: "Submitted"
   - title: "Analysis of Battery Management Algorithms on DC Microgrids"
     link: "https://jurnal.untan.ac.id/index.php/Elkha/article/view/42728"
     organization: "ELKHA"
