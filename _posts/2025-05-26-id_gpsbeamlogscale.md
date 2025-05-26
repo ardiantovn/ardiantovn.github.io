@@ -6,9 +6,11 @@ date: 2025-05-26
 permalink : /posts/TL;DR Prediksi dan Pelacakan Beam Berbantuan GPS untuk Komunikasi dengan UAV pada pita frekuensi mmWave
 tags:
   - riset
+  - deep learning
 ---
 
-[[Read the English version here](https://medium.com/@ardiantovn/an-overview-of-gps-assisted-beam-prediction-and-tracking-for-uav-mmwave-communication-85a00c13be8b)].Artikel ini menyajikan versi singkat (TL;DR) dari penelitian saya tentang prediksi dan pelacakan *beam* berbantuan GPS untuk komunikasi dengan *UAV* pada pita frekuensi *mmWave*. Bagi pembaca yang tertarik untuk mengeksplorasi detail implementasi, kode lengkap dapat diakses melalui [repositori github](https://github.com/ardiantovn/gpsbeam) ini.
+[[Read the English version here](https://medium.com/@ardiantovn/an-overview-of-gps-assisted-beam-prediction-and-tracking-for-uav-mmwave-communication-85a00c13be8b)].
+Artikel ini menyajikan versi singkat (TL;DR) dari penelitian saya tentang prediksi dan pelacakan *beam* berbantuan GPS untuk komunikasi dengan *UAV* pada pita frekuensi *mmWave*. Bagi pembaca yang tertarik untuk mengeksplorasi detail implementasi, kode lengkap dapat diakses melalui [repositori github](https://github.com/ardiantovn/gpsbeam) ini.
 
 
 ## Latar Belakang Penelitian
