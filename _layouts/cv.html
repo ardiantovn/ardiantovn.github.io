@@ -112,6 +112,19 @@ layout: default
             display: none;
         }
 
+        a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .url-text {
+            color: #0066cc;
+        }
+
         @media print {
             .tag {
                 background-color: #f0f0f0 !important;
@@ -126,6 +139,19 @@ layout: default
             .print-date {
                 display: block;
             }
+
+            a {
+                color: #0066cc !important;
+                text-decoration: underline !important;
+            }
+
+            .url-text {
+                color: #0066cc !important;
+            }
+
+            a:after {
+                content: none !important;
+            }
         }
 
         .contact-info {
@@ -138,7 +164,7 @@ layout: default
         }
 
         .contact-info a {
-            color: #666;
+            color: #0066cc;
             text-decoration: none;
             display: flex;
             align-items: center;
@@ -148,7 +174,7 @@ layout: default
         }
 
         .contact-info a:hover {
-            color: #333;
+            color: #004499;
         }
 
         .contact-info a i {
@@ -198,6 +224,7 @@ layout: default
         <a href="mailto:{{ page.email }}"><i class="fas fa-envelope"></i> {{ page.email }}</a>
         <a href="https://linkedin.com/in/{{ page.linkedin }}"><i class="fab fa-linkedin"></i> {{ page.linkedin }}</a>
         <a href="https://github.com/{{ page.github }}"><i class="fab fa-github"></i> {{ page.github }}</a>
+        <a href="https://medium.com/@{{ page.medium }}"><i class="fab fa-medium"></i> {{ page.medium }}</a>
     </div>
 
     <div class="section">
@@ -260,7 +287,7 @@ layout: default
             </div>
             <div class="company">{{ publication.organization }}</div>
             {% if publication.status %}
-            <div class="company">Status: {{ publication.status }}</div>
+            <div class="company">Status: <span class="url-text">{{ publication.status }}</span></div>
             {% endif %}
             <ul>
                 {% for detail in publication.details %}
