@@ -12,7 +12,7 @@ medium: "ardiantovn"
 
 # Professional Experience
 experience:
-  - title: "Research Assistant"
+  - title: "Wireless Communication AI Researcher"
     company: "Intelligent Signal Processing Lab, Sejong University, Seoul, South Korea"
     date: "Sep 2023 - Present"
     description:
