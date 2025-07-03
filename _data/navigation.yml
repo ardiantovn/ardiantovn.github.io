@@ -4,6 +4,8 @@ main:
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url: /about/
+  - title: "나에 대해"
+    url: /korabout/
   - title: "CV"
     url: /cv/
   - title: "이력서"
