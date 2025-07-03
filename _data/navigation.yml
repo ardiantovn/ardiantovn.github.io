@@ -6,6 +6,8 @@ main:
     url: /about/
   - title: "CV"
     url: /cv/
+  - title: "이려서"
+    url: /korcv/
   - title: "Blog"
     url: /blog/
   # - title: "Sample Posts"
