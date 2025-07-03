@@ -91,30 +91,30 @@ education:
 
 # 논문
 publications:
-  - title: "무인항공기 밀리미터파 통신에서 빔 예측 및 추적을 위한 GPS 보조 딥러닝"
+  - title: "GPS-Aided Deep Learning for Beam Prediction and Tracking in UAV mmWave Communication"
     link: "https://arxiv.org/abs/2505.17530"
     status: "IEEE 제출. 코드: https://github.com/ardiantovn/gpsbeam."
     date: "2025년 5월"
-  - title: "밀리미터파 대규모 MIMO를 위한 연합학습 조사"
+  - title: "A Survey of Federated Learning for mmWave Massive MIMO"
     link: "https://ieeexplore.ieee.org/document/10521620"
     organization: "IEEE Internet of Things Journal (컴퓨터과학 및 정보시스템 분야 상위 3.6% 저널)"
     date: "2024년 5월"
-  - title: "DC 마이크로그리드에서 배터리 관리 알고리즘 분석"
+  - title: "Analysis of Battery Management Algorithms on DC Microgrids"
     link: "https://jurnal.untan.ac.id/index.php/Elkha/article/view/42728"
     organization: "ELKHA"
     date: "2021년 4월"
 
 # 자격증
 certifications:
- - title: "모든 사람을 위한 5G"
+ - title: "5G for Everyone"
    link: "https://www.coursera.org/account/accomplishments/verify/87GJJPMP4FB5?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course"
    organization: "퀄컴 무선 아카데미"
    date: "2024년 1월"
- - title: "자동차 레이더"
+ - title: "Automotive Radar"
    link: "https://www.udemy.com/certificate/UC-6b0cecd5-c665-4d00-9884-cd974b60ab96/"
    organization: "Udemy"
    date: "2024년 1월"
- - title: "Apache Airflow | 실시간 & 실습 중심 Airflow 과정"
+ - title: "Apache Airflow | A Real-Time & Hands-On Course on Airflow"
    link: "https://www.udemy.com/certificate/UC-429244c7-76ee-43ca-ab07-ec38a8f53a69/"
    organization: "Udemy"
    date: "2021년 1월"
