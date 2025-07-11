@@ -27,8 +27,7 @@ experience:
     date: "2022년 7월 - 2023년 6월"
     description:
       - "Python, SQL, Apache Airflow, BigQuery를 사용하여 **ETL 프로세스를 개발**하고, 회사 이해관계자들을 위한 **효율적인 데이터 처리**를 가능하게 했습니다."
-      - "**독자 참여도 증가**를 목표로 하는 **기사 추천 모델**과 **기사 분류 모델을 개발**했습니다."
-      - "Kubernetes에서 머신러닝 모델을 배포하여 **배포 효율성 향상**과 **시스템 확장성**에 기여했습니다."
+      - "기사 추천 모델과 기사 분류 모델을 개발 및 배포하여 독자 참여를 증대시켰습니다."
       - "GPT, 개체명 인식(NER), 토픽 모델링에 대한 **연구를 수행**하여, 기사 추천 **기능 향상 기회를 식별**했습니다."      
     skills:
       - "Python"
@@ -92,9 +91,10 @@ education:
 # 논문
 publications:
   - title: "GPS-Aided Deep Learning for Beam Prediction and Tracking in UAV mmWave Communication"
-    link: "https://arxiv.org/abs/2505.17530"
-    status: "IEEE 제출. 코드: https://github.com/ardiantovn/gpsbeam."
-    date: "2025년 5월"
+    link: "https://ieeexplore.ieee.org/document/11072409"
+    organization: "IEEE ACCESS"
+    status: "코드: https://github.com/ardiantovn/gpsbeam."
+    date: "2025년 7월"
   - title: "A Survey of Federated Learning for mmWave Massive MIMO"
     link: "https://ieeexplore.ieee.org/document/10521620"
     organization: "IEEE Internet of Things Journal (컴퓨터과학 및 정보시스템 분야 상위 3.6% 저널)"

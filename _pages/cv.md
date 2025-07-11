@@ -28,8 +28,7 @@ experience:
     date: "July 2022 - June 2023"
     description:
       - "Developed an **ETL process** using Python, SQL, Apache Airflow, and Bigquery, enabling **efficient data processing** for company stakeholders."
-      - "Developed an **article recommendation model** and an **article classifier model** aimed at **increasing reader engagement**."
-      - "Deployed machine learning models in Kubernetes, contributing to **improved deployment efficiency** and **system scalability**."
+      - "Developed and deployed an **article recommendation model** and an **article classifier model** aimed at **increasing reader engagement**."
       - "Conducted **research** on GPT, Named Entity Recognition (NER), and topic modelling, **identifying opportunities to enhance** the article recommendation **features**."      
     skills:
       - "Python"
@@ -93,9 +92,10 @@ education:
 # Publications
 publications:
   - title: "GPS-Aided Deep Learning for Beam Prediction and Tracking in UAV mmWave Communication"
-    link: "https://arxiv.org/abs/2505.17530"
-    status: "Submitted to IEEE. Code: https://github.com/ardiantovn/gpsbeam."
-    date: "May 2025"
+    link: "https://ieeexplore.ieee.org/document/11072409"
+    organization: "IEEE ACCESS"
+    status: "Code: https://github.com/ardiantovn/gpsbeam."
+    date: "July 2025"
   - title: "A Survey of Federated Learning for mmWave Massive MIMO"
     link: "https://ieeexplore.ieee.org/document/10521620"
     organization: "IEEE Internet of Things Journal (top 3,6% journal in computer science & information system category)"
