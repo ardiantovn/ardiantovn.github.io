@@ -10,6 +10,10 @@ tags:
 ---
 
 [[Read the English version here](https://medium.com/@ardiantovn/run-the-deep-learning-model-4-5x-faster-with-onnx-runtime-760db96cabdb)]
+
+![ONNX Runtime](../images/20250712_onnx_runtime.png)
+*Gambar 1: ONNX Runtime*
+
 ## Apa itu ONNX?
 
 Setelah melatih model prediksi beam berbasis GPS, saya menjadi tertarik untuk mengoptimalkan model deep learning saya untuk inferensi yang lebih cepat. Saya membaca beberapa teknik, termasuk [quantization](https://huggingface.co/docs/optimum/concept_guides/quantization) dan [menjalankan model dengan Open Neural Network eXchange (ONNX) Runtime](https://youtu.be/M4o4YRVba4o). Namun, saya lebih tertarik dengan ONNX karena ini adalah alat yang menawarkan interoperabilitas (misalnya, melatih model di Python dan men-*deploy*-nya di Rust) dan inferensi yang lebih cepat. Selain itu, penggunaannya mudah karena saya hanya perlu mengekspor model yang telah dilatih ke format ONNX dan memuatnya melalui ONNX Runtime. Di sini, saya ingin berbagi pengalaman saya menggunakan sebagian kode saya di [repo ini](https://github.com/ardiantovn/gpsbeam) tentang cara menggunakan ONNX Runtime dan seberapa cepatnya.
