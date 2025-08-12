@@ -14,7 +14,7 @@ medium: "ardiantovn"
 experience:
   - title: "무선 통신 AI 연구원"
     company: "지능형 신호처리 연구실, 세종대학교, 서울, 대한민국"
-    date: "2023년 9월 - 현재"
+    date: "2023년 9월 - 2025년 8월"
     description:
       - "무인항공기 밀리미터파 통신을 위한 **GPS 기반 빔 예측 및 추적 딥러닝 모델을 개발**하여, 
       새로운 데이터 분할 전략, GPS 데이터 전처리, 그리고 경량 모델 아키텍처를 통해 빔 예측 **정확도를 향상**시켰습니다."
@@ -76,7 +76,7 @@ experience:
 education:
   - degree: "지능형 메카트로닉스 공학 석사"
     institution: "세종대학교, 서울, 대한민국"
-    date: "2023년 9월 - 현재"
+    date: "2023년 9월 - 2025년 8월"
     supervisor: "이병무 교수"
     details:
       - "무선 통신을 위한 딥러닝 전공"
