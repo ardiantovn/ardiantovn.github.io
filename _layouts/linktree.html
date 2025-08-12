@@ -39,7 +39,7 @@
             position: absolute;
             top: -60px;
             right: 0;
-            z-index: 1000;
+            z-index: 9999;
         }
 
         .nav-toggle {
@@ -49,6 +49,8 @@
             padding: 8px;
             border-radius: 4px;
             transition: all 0.3s ease;
+            -webkit-tap-highlight-color: transparent;
+            touch-action: manipulation;
         }
 
         .nav-toggle:hover {
@@ -259,6 +261,25 @@
                 height: 20px;
                 margin-right: 12px;
             }
+            
+            /* Mobile navigation fixes */
+            .nav-menu {
+                top: -50px;
+            }
+            
+            .nav-toggle {
+                padding: 12px;
+                min-height: 44px;
+                min-width: 44px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+            
+            .dropdown-menu {
+                min-width: 150px;
+                right: -10px;
+            }
         }
     </style>
 </head>
@@ -304,7 +325,7 @@
                 <div class="icon">
                     <div style="color: #fff; font-weight: 600; font-size: 14px; display: flex; align-items: center; justify-content: center; height: 100%; width: 100%;">G</div>
                 </div>
-                <span class="link-text">vendianugroho@gmail.com</span>
+                <span class="link-text">vendianugroho[at]gmail.com</span>
             </a>
 
             <a href="https://medium.com/@ardiantovn" class="link-button" target="_blank" rel="noopener">
@@ -336,27 +357,58 @@
         document.addEventListener('DOMContentLoaded', function() {
             const navToggle = document.getElementById('navToggle');
             const dropdownMenu = document.getElementById('dropdownMenu');
+            let isMenuOpen = false;
 
-            navToggle.addEventListener('click', function(e) {
+            function toggleMenu(e) {
+                e.preventDefault();
                 e.stopPropagation();
-                navToggle.classList.toggle('active');
-                dropdownMenu.classList.toggle('active');
+                
+                isMenuOpen = !isMenuOpen;
+                navToggle.classList.toggle('active', isMenuOpen);
+                dropdownMenu.classList.toggle('active', isMenuOpen);
+            }
+
+            function closeMenu() {
+                isMenuOpen = false;
+                navToggle.classList.remove('active');
+                dropdownMenu.classList.remove('active');
+            }
+
+            // Handle both touch and click events for mobile compatibility
+            navToggle.addEventListener('touchstart', function(e) {
+                e.preventDefault();
+            }, { passive: false });
+            
+            navToggle.addEventListener('click', toggleMenu);
+            navToggle.addEventListener('touchend', function(e) {
+                if (!e.defaultPrevented) {
+                    toggleMenu(e);
+                }
             });
 
-            // Close dropdown when clicking outside
+            // Close dropdown when clicking/touching outside
             document.addEventListener('click', function(e) {
                 if (!navToggle.contains(e.target) && !dropdownMenu.contains(e.target)) {
-                    navToggle.classList.remove('active');
-                    dropdownMenu.classList.remove('active');
+                    closeMenu();
+                }
+            });
+
+            document.addEventListener('touchstart', function(e) {
+                if (!navToggle.contains(e.target) && !dropdownMenu.contains(e.target)) {
+                    closeMenu();
                 }
             });
 
             // Close dropdown when pressing escape key
             document.addEventListener('keydown', function(e) {
                 if (e.key === 'Escape') {
-                    navToggle.classList.remove('active');
-                    dropdownMenu.classList.remove('active');
+                    closeMenu();
                 }
+            });
+
+            // Handle orientation change
+            window.addEventListener('orientationchange', function() {
+                setTimeout(closeMenu, 100);
             });
         });
     </script>
