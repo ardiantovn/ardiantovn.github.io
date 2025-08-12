@@ -78,14 +78,14 @@ education:
   - degree: "Master of Science in Intelligent Mechatronics Engineering"
     institution: "Sejong University, Seoul, South Korea"
     date: "Sep 2023 - Aug 2025"
-    supervisor: "Professor Byung Moo Lee"
+    advisor: "Professor Byung Moo Lee"
     details:
       - "Specialized in Deep Learning for Wireless Communication"
 
   - degree: "Bachelor of Engineering in Engineering Physics"
     institution: "Universitas Gadjah Mada, Yogyakarta, Indonesia"
     date: "Aug 2015 - Aug 2020"
-    supervisor: "Dr. Awang N.I. Wardana and Dr. Dwi Joko Suroso"
+    advisor: "Dr. Awang N.I. Wardana and Dr. Dwi Joko Suroso"
     details:
       - "Specialized in Instumentation Engineering"
 

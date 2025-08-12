@@ -260,8 +260,8 @@ layout: default
                 <span class="date">{{ edu.date }}</span>
             </div>
             <div class="company">{{ edu.institution }}</div>
-            {% if edu.supervisor %}
-            <div class="company">Supervisor: {{ edu.supervisor }}</div>
+            {% if edu.advisor %}
+            <div class="company">Advisor: {{ edu.advisor }}</div>
             {% endif %}
             <ul>
                 {% for detail in edu.details %}

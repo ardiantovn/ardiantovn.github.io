@@ -77,14 +77,14 @@ education:
   - degree: "지능형 메카트로닉스 공학 석사"
     institution: "세종대학교, 서울, 대한민국"
     date: "2023년 9월 - 2025년 8월"
-    supervisor: "이병무 교수"
+    advisor: "이병무 교수"
     details:
       - "무선 통신을 위한 딥러닝 전공"
 
   - degree: "공학물리학 학사"
     institution: "가자마다대학교, 족자카르타, 인도네시아"
     date: "2015년 8월 - 2020년 8월"
-    supervisor: "Dr. Awang N.I. Wardana 및 Dr. Dwi Joko Suroso"
+    advisor: "Dr. Awang N.I. Wardana 및 Dr. Dwi Joko Suroso"
     details:
       - "계측공학 전공"
 
