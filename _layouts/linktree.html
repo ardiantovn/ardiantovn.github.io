@@ -8,6 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Vendi A. Nugroho</title>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/plus-jakarta-sans/2.0.0/plus-jakarta-sans.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <style>
         * {
             margin: 0;
@@ -137,7 +138,7 @@
 
         .profile-section {
             margin-bottom: 60px;
-            padding-top: 40px;
+            padding-top: 20px;
         }
 
         .name {
@@ -224,6 +225,19 @@
             color: #000 !important;
         }
 
+        .link-button:hover .icon.fab,
+        .link-button:hover .icon.fas {
+            color: #000;
+        }
+
+        .icon img {
+            filter: invert(1);
+        }
+
+        .link-button:hover .icon img {
+            filter: invert(0);
+        }
+
         .link-text {
             flex-grow: 1;
             text-align: left;
@@ -233,7 +247,7 @@
         @media (min-height: 600px) {
             body {
                 align-items: flex-start;
-                padding-top: 15vh;
+                padding-top: 8vh;
             }
             
             .profile-section {
@@ -338,16 +352,12 @@
             </a>
 
             <a href="https://medium.com/@ardiantovn" class="link-button" target="_blank" rel="noopener">
-                <svg class="icon" viewBox="0 0 24 24" fill="currentColor">
-                    <path d="M13.54 12a6.8 6.8 0 01-6.77 6.82A6.8 6.8 0 010 12a6.8 6.8 0 016.77-6.82A6.8 6.8 0 0113.54 12zM20.96 12c0 3.54-1.51 6.42-3.38 6.42-1.87 0-3.39-2.88-3.39-6.42s1.52-6.42 3.39-6.42 3.38 2.88 3.38 6.42M24 12c0 3.17-.53 5.75-1.19 5.75-.66 0-1.19-2.58-1.19-5.75s.53-5.75 1.19-5.75C23.47 6.25 24 8.83 24 12z"/>
-                </svg>
+                <img src="/assets/icon/Medium-Icon-Black.svg" class="icon" alt="Medium" style="width: 24px; height: 24px;">
                 <span class="link-text">Medium Articles</span>
             </a>
 
             <a href="https://substack.com/@ardiantovn" class="link-button" target="_blank" rel="noopener">
-                <div class="icon">
-                    <div style="color: #fff; font-weight: 600; font-size: 14px; display: flex; align-items: center; justify-content: center; height: 100%; width: 100%;">S</div>
-                </div>
+                <i class="fas fa-newspaper icon" style="font-size: 16px; display: flex; align-items: center; justify-content: center;"></i>
                 <span class="link-text">Substack Newsletter</span>
             </a>
 

@@ -3,7 +3,7 @@ layout: cv
 title: "Resume"
 permalink: /cv/
 author: "Vendi Ardianto Nugroho"
-tagline: "Data & AI Engineer | Bringing Creativity to Research and Development"
+tagline: "Data & AI Engineer"
 email: "vendianugroho[at]gmail[dot]com"
 linkedin: "vendianugroho"
 github: "ardiantovn"
