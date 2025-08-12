@@ -2,6 +2,83 @@
 layout: archive
 ---
 
+<style>
+    body {
+        font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+        font-size: 0.925rem;
+        line-height: 1.6;
+    }
+
+    .page__title {
+        font-size: 2rem;
+        font-weight: 700;
+    }
+
+    .page__content {
+        font-size: 14px;
+    }
+
+    .nav__title {
+        font-size: 1rem;
+    }
+
+    .toc__menu {
+        font-size: 0.875rem;
+    }
+
+    .page__meta {
+        font-size: 0.875rem;
+    }
+
+    .page__related-title {
+        font-size: 1.5rem;
+    }
+
+    .archive__item-title {
+        font-size: 1.125rem;
+    }
+
+    /* Force black color for all title links and reduce header size */
+    .taxonomy__index a,
+    .taxonomy__index a:link,
+    .taxonomy__index a:visited,
+    .taxonomy__index a:hover,
+    .taxonomy__index a:active,
+    .taxonomy__index a strong,
+    .taxonomy__index li a,
+    ul.taxonomy__index a,
+    ul.taxonomy__index li a,
+    .archive__subtitle,
+    .back-to-top {
+        color: #000000 !important;
+        text-decoration: none;
+    }
+
+    /* Additional override for any remaining blue links */
+    a {
+        color: #000000 !important;
+    }
+
+    /* But keep some elements their original colors if needed */
+    .page__content a:not(.taxonomy__index a):not(.back-to-top) {
+        color: #0066cc;
+    }
+
+    .taxonomy__index a:hover,
+    .back-to-top:hover {
+        text-decoration: underline;
+    }
+
+    /* Smaller header font size */
+    .taxonomy__index {
+        font-size: 0.875rem;
+    }
+
+    .archive__subtitle {
+        font-size: 1.25rem;
+    }
+</style>
+
 {{ content }}
 
 <ul class="taxonomy__index">
