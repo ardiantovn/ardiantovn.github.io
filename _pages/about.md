@@ -1,7 +1,7 @@
 ---
 title: About
 permalink: /about/
-layout: single
+layout: about
 ---
 
 I am a **Data & AI Engineer** specializing in **deep learning for wireless communication**. My expertise lies in developing data pipeline for storing data, researching various deep learning architecture that meets requirement, and deploying model at production. Currently pursuing a Master's in **Intelligent Mechatronics Engineering** at Sejong University, I focus on developing **GPS-based beam prediction** and **tracking deep learning model** for UAV mmWave communication.
