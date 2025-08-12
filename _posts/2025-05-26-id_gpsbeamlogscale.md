@@ -26,7 +26,7 @@ Penelitian ini mempertimbangkan BS dengan $Q$ antena dan UAV dengan satu antena 
 
 Konfigurasi vektor *beamforming* menentukan arah yang dihadapi *beam* dan seberapa lebar/sempitnya (lihat Gambar 2). Konfigurasi ini disimpan dalam *beam codebook* dengan ukuran $M$. Mengingat informasi posisi historis UAV $O$, penelitian ini bertujuan untuk memanfaatkannya untuk memilih indeks *beam* optimal dalam *beam codebook* menggunakan model pembelajaran mendalam prediksi dan pelacakan *beam* $f(\Theta_{bpt})$. Model ini mengembalikan indeks *beam* saat ini dan tiga indeks *beam* masa depan.
 
-![Formulasi Masalah](../images/20250514_problem.png)
+![Formulasi Masalah](../images/20250526_problem.png)
 *Gambar 2: Formulasi Permasalahan*
 
 ## Solusi yang Diusulkan
