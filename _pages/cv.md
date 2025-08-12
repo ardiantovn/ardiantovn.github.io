@@ -14,7 +14,7 @@ medium: "ardiantovn"
 experience:
   - title: "Wireless Communication AI Researcher"
     company: "Intelligent Signal Processing Lab, Sejong University, Seoul, South Korea"
-    date: "Sep 2023 - Present"
+    date: "Sep 2023 - Aug 2025"
     description:
       - "Developed **a GPS-based beam prediction and tracking deep learning model** for 
       UAV mmWave communication, **improving** beam prediction **accuracy** 
@@ -77,7 +77,7 @@ experience:
 education:
   - degree: "Master of Science in Intelligent Mechatronics Engineering"
     institution: "Sejong University, Seoul, South Korea"
-    date: "Sep 2023 - Present"
+    date: "Sep 2023 - Aug 2025"
     supervisor: "Professor Byung Moo Lee"
     details:
       - "Specialized in Deep Learning for Wireless Communication"
