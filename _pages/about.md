@@ -13,6 +13,8 @@ My industry experience includes working as a **Data Engineer** at **Kompas Grame
 - **Data & MLOps**: Apache Airflow, BigQuery, Kubernetes, Docker
 - **Data Visualization**: Gephi, Tableau, Apache Superset
 
+I am the creator of [Kupu](https://github.com/ardiantovn/kupu), an  an open source AI inpainter to remove object(s) from images while keeping the original image dimension intact. I built this app as previously I have tried several AI-based object remover, but they also reduce the image dimensions. You could download and run [Kupu](https://github.com/ardiantovn/kupu) in a browser too.
+
 I am open to opportunities that require either data engineering, research engineering, or AI engineering skills. Feel free to contact me at vendianugroho[at]gmail[dot]com.
 
 ---
