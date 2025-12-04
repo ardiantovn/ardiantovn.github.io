@@ -3,7 +3,7 @@ layout: cv
 title: "Resume"
 permalink: /cv/
 author: "Vendi Ardianto Nugroho"
-tagline: "Data & AI Engineer"
+tagline: "Research Engineer | Data & AI Engineer"
 email: "vendianugroho[at]gmail[dot]com"
 linkedin: "vendianugroho"
 github: "ardiantovn"
@@ -19,6 +19,7 @@ experience:
       - "Developed **a GPS-based beam prediction and tracking deep learning model** for 
       UAV mmWave communication, **improving** beam prediction **accuracy** 
       through novel data set splitting strategy, GPS data preprocessing, and lightweight model architecture."
+      - "Published two journal papers and filed 1 Korean patent in AI for wireless communication field."
     skills:
       - "Python"
       - "LaTex"
