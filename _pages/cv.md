@@ -12,7 +12,7 @@ medium: "ardiantovn"
 
 # Professional Experience
 experience:
-  - title: "Wireless Communication AI Researcher"
+  - title: "AI for Wireless Communication Graduate Researcher"
     company: "Intelligent Signal Processing Lab, Sejong University, Seoul, South Korea"
     date: "Sep 2023 - Aug 2025"
     description:
