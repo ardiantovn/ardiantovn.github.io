@@ -16,7 +16,7 @@ experience:
     company: "Insignia (an IT consultant), Jakarta, Indonesia"
     date: "Feb 2026 - Current"
     description:
-      - "Developing Large Language Model (LLM) based AI agent workflow."
+      - "Developing a Large Language Model (LLM) based AI agent workflow."
     skills:
       - "Python"
   - title: "AI for Wireless Communication Graduate Researcher"
