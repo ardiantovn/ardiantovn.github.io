@@ -12,6 +12,13 @@ medium: "ardiantovn"
 
 # Professional Experience
 experience:
+  - title: "Machine Learning Engineer"
+    company: "Insignia (an IT consultant), Jakarta, Indonesia"
+    date: "Feb 2026 - Current"
+    description:
+      - "Developing Large Language Model (LLM) based AI agent workflow."
+    skills:
+      - "Python"
   - title: "AI for Wireless Communication Graduate Researcher"
     company: "Intelligent Signal Processing Lab, Sejong University, Seoul, South Korea"
     date: "Sep 2023 - Aug 2025"
