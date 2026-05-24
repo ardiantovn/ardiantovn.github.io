@@ -115,6 +115,10 @@ publications:
 
 # Certifications
 certifications:
+ - title: "Databricks Certified Data Engineer Professional"
+   link: "https://credentials.databricks.com/9335bac1-f585-4bef-bc40-fb15c49c572f#acc.5pIZ73gS"
+   organization: "Databricks"
+   date: "May 2026"
  - title: "5G for Everyone"
    link: "https://www.coursera.org/account/accomplishments/verify/87GJJPMP4FB5?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course"
    organization: "Qualcomm Wireless Academy"
