@@ -11,16 +11,16 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme             : "ardiantovn/ardiantovn.github.io"
+remote_theme             : "avvendi/avvendi.github.io"
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ardiantovn"
+title                    : "avvendi"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "ardiantovn"
+name                     : "avvendi"
 description              : "a discovery journey site"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -102,7 +102,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "ardiantovn"
+  name             : "avvendi"
   avatar           : "/images/profile.png"
   bio              : "a stargazer"
   location         : 
@@ -115,9 +115,9 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    # - label: "ardiantovn"
+    # - label: "avvendi"
     #   icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/ardiantovn"
+      # url: "https://twitter.com/avvendi"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -129,16 +129,13 @@ author:
       url: "https://www.upwork.com/freelancers/vendiardiantonugroho"
     - label: "Medium"
       icon: "fab fa-fw fa-medium"
-      url: "https://medium.com/@ardiantovn"
-    - label: "Substack"
-      icon: "fas fa-fw fa-newspaper"
-      url: "https://ardiantovn.substack.com"
+      url: "https://medium.com/@avvendi"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/ardiantovn"
+      url: "https://github.com/avvendi"
     - label: "VSCO Gallery"
       icon: "fas fa-fw fa-camera"
-      url: "https://vsco.co/ardiantovn/gallery"
+      url: "https://vsco.co/avvendi/gallery"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"

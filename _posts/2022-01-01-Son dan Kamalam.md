@@ -1,6 +1,6 @@
 ---
 title: 'Son dan Kamalam'
-author: 'ardiantovn'
+author: 'avvendi'
 layout: posts
 date: 2022-01-23
 permalink : /posts/Son dan Kamalam

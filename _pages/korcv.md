@@ -6,8 +6,8 @@ author: "Vendi Ardianto Nugroho"
 tagline: "데이터 & AI 엔지니어 | 연구개발에 창의성을 더하는 전문가입니다"
 email: "vendianugroho[at]gmail[dot]com"
 linkedin: "vendianugroho"
-github: "ardiantovn"
-medium: "ardiantovn"
+github: "avvendi"
+medium: "avvendi"
 
 
 # 경력 사항
@@ -93,7 +93,7 @@ publications:
   - title: "GPS-Aided Deep Learning for Beam Prediction and Tracking in UAV mmWave Communication"
     link: "https://ieeexplore.ieee.org/document/11072409"
     organization: "IEEE ACCESS"
-    status: "코드: https://github.com/ardiantovn/gpsbeam."
+    status: "코드: https://github.com/avvendi/gpsbeam."
     date: "2025년 7월"
   - title: "A Survey of Federated Learning for mmWave Massive MIMO"
     link: "https://ieeexplore.ieee.org/document/10521620"

@@ -6,8 +6,8 @@ author: "Vendi Ardianto Nugroho"
 tagline: "Data & AI Engineer | Databricks Certified Data Engineer Professional"
 email: "vendianugroho[at]gmail[dot]com"
 linkedin: "vendianugroho"
-github: "ardiantovn"
-medium: "ardiantovn"
+github: "avvendi"
+medium: "avvendi"
 
 
 # Professional Experience
@@ -102,7 +102,7 @@ publications:
   - title: "GPS-Aided Deep Learning for Beam Prediction and Tracking in UAV mmWave Communication"
     link: "https://ieeexplore.ieee.org/document/11072409"
     organization: "IEEE ACCESS"
-    status: "Code: https://github.com/ardiantovn/gpsbeam."
+    status: "Code: https://github.com/avvendi/gpsbeam."
     date: "July 2025"
   - title: "A Survey of Federated Learning for mmWave Massive MIMO"
     link: "https://ieeexplore.ieee.org/document/10521620"
